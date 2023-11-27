@@ -21,5 +21,7 @@ This script is a multi-functional tool that includes IP information retrieval, w
 1. Make sure you have Python installed on your machine.
 2. Install the required libraries using the following command:
    ```bash
+   git clone https://github.com/HeJo-1/HeJo-01
+   cd HeJo-01
    pip install -r requirements.txt
    python3 main.py
