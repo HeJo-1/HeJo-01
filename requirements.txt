@@ -3,3 +3,5 @@ itertools
 os
 socket
 Fernet
+subprocess
+selenium
