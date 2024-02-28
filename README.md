@@ -1,5 +1,5 @@
 # HeJo-01 tools
-<img src="https://github.com/HeJo-1/HeJo-1/blob/main/HeJo-01.png" alt="alt text" width="256" height="256">
+<img src="https://github.com/HeJo-1/HeJo-1/blob/main/HeJo-01.png" alt="HeJo-01" width="256" height="256">
 ## Description
 This script is a multi-functional tool that includes IP information retrieval, wordlist/password generation, DDoS attack simulation, and file encryption/decryption.
 
