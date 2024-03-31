@@ -238,6 +238,7 @@ def tr():
         [4] Dosya şifreleme
         [5] İnstagram sızma
         [6] sms patlamasi
+        [7] Kayıtlı kameralar
         [99] Çıkış
     ''')
     while True:
@@ -254,6 +255,8 @@ def tr():
             subprocess.run(["python", "stc.py"])
         elif b == 6:
             subprocess.run(["python", "s.py"])
+        elif b == 7:
+            subprocess.run(["python", "cam.py"])
         elif b == 99:
             exit()
         else:
@@ -490,6 +493,7 @@ def eng():
             [4] File encryption
             [5] Instagram hack
             [6] Sms Boomber
+            [7] See Camera
             [99] Exit
         ''')
         while True:
@@ -506,6 +510,8 @@ def eng():
                 subprocess.run(["python", "stc.py"])
             elif a == 6:
                 subprocess.run(["pytohn", "s.py"])
+            elif a == 7:
+                subprocess.run(["python", "cam.py"])
             elif a == 99:
                 exit()
             else:
